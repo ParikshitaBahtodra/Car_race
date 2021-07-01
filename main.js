@@ -20,7 +20,7 @@ var car1_y=100;
 background_img=track_img[random_number];
 console.log("background img is= "+background_img);
 
-background_img="O_Track.jpg";
+
 car_img="carTopView1.png";
 car1_img="carTopView2.jpg";
 
