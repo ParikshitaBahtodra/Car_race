@@ -3,6 +3,7 @@ ctx=canvas.getContext("2d");
 
 var track_img=["cartoon_Q_Track.jpg","cartoonTrack.png","O_track.jpg","S_Track.jpg","U_track.jpg","W_Track.jpg"];
 var random_number=Math.floor(Math.random()*5);
+console.log(random_number);
 
 var car_width=100;
 var car_height=90;
